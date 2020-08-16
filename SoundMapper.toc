@@ -1,0 +1,11 @@
+## Interface: 80300
+## Version: 0.1
+## Title: LUI
+## Author: Mitch Brown
+## Notes: Switch Sound output based on preferences
+## SavedVariables: SoundMapperDB
+## X-Embeds: Ace3, LibDBIcon, LibDataBroker
+
+embeds.xml
+
+main.lua 
