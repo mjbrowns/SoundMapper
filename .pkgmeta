@@ -5,8 +5,7 @@ enable-nolib-creation: no
 externals:
    Libs/LibStub: svn://svn.wowace.com/wow/libstub/mainline/trunk
    Libs/LibDataBroker-1.1: 
-    url: https://repos.curseforge.com/wow/libdatabroker-1-1 
-    tag: libdatabroker-1-1
+    url: https://repos.wowace.com/wow/libdatabroker-1-1 
     type: git
    Libs/CallbackHandler-1.0: svn://svn.wowace.com/wow/callbackhandler/mainline/trunk/CallbackHandler-1.0
    Libs/AceAddon-3.0: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceAddon-3.0
