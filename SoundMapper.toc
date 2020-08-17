@@ -6,7 +6,7 @@
 ## SavedVariables: SoundMapperDB
 
 #@no-lib-strip@
-Libs\LibDataBroker-1.1.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
 Libs\AceAddon-3.0\AceAddon-3.0.xml
